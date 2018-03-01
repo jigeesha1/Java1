@@ -1,0 +1,4 @@
+We have an array of length n, with numbers 0 to n-1..
+but one of the number is missing and another number is repeated.... 
+
+Find the missing number and repeated number..

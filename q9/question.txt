@@ -1,0 +1,5 @@
+Difference between Checked Exception and Unchecked Exception
+Gave example code of exceptions with inheritance
+
+bottomline tested: 
+	method in child class cannot have broader exception than the method in parent class

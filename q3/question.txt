@@ -1,0 +1,17 @@
+We have Employee class with properties, ID, NAME, ADDRESS
+
+We need to sort them by their property.. 
+
+Fill the code in Method m1()
+
+m1(List<employee> l, String sortBy)
+{
+
+}
+
+Depending on the String sortBy..(It can have value "ID"/"NAME"/"ADDRESS")
+sort the list of employees... 
+
+The coding should be generic, which can be used for any class... with any no of properties..
+
+Hint: Use Comparator and Comparable

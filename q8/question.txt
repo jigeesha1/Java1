@@ -1,0 +1,3 @@
+Related to Collections-
+a.FailFast and FailSafe iterators
+b.Enumertions, Iterators and ListIterators-- Difference between them and When to use what

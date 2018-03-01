@@ -1,0 +1,4 @@
+SQL
+
+GROUP BY -- Functionality tested with tweaks
+JOIN 3 tables -- Functionality tested with tweaks
